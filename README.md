@@ -20,7 +20,7 @@ Script Workflow:
 
 Error Handling:
 
-If the required arguments are not provided, the script displays usage instructions and exits.
-If the AWS CLI is not installed, the script prompts the user to install it and exits.
-If the AWS CLI is not configured, the script prompts the user to configure it and exits.
-If an unsupported AWS service is specified, the script displays an error message and exits.
+* If the required arguments are not provided, the script displays usage instructions and exits.
+* If the AWS CLI is not installed, the script prompts the user to install it and exits.
+* If the AWS CLI is not configured, the script prompts the user to configure it and exits.
+* If an unsupported AWS service is specified, the script displays an error message and exits.
